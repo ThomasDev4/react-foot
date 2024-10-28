@@ -19,8 +19,7 @@ function App() {
    return (
     <>
         <NavBar/>
-        <Match logoClub={PSG} name={'PSG'}/>
-        <Match logoClub={OM} name={'OM'}/>
+        <Match logoClub={PSG} name={'PSG'} logoOtherClub={OM} nameOtherClub='OM'/>
 
     </>
    )

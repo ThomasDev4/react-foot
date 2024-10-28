@@ -1,10 +1,35 @@
 .match {
-	display: inline-block;
-	margin-top: 2rem;
+	display: flex;
+	justify-content: space-around;
 	align-items: center;
+	margin-top: 3rem;
+	text-align: center;
 }
 
 img {
-	height: 5rem;
-	width: 5rem;
+	height: 7rem;
+	width: 7rem;
+}
+
+h1 {
+	text-align: center;
+	border: solid;
+	width: 13rem;
+	margin: auto;
+	margin-top: 1rem;
+	
+}
+
+.terrain {
+	height: 20rem;
+	width: 50%;
+}
+
+button {
+	width: 3rem;
+	text-decoration: none;
+}
+
+button:hover {
+	background-color: green;
 }
