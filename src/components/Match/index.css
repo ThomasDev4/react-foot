@@ -1,0 +1,10 @@
+.match {
+	display: inline-block;
+	margin-top: 2rem;
+	align-items: center;
+}
+
+img {
+	height: 5rem;
+	width: 5rem;
+}

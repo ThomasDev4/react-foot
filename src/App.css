@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.terrain {
+    display: inline-block;
+    
+
+    height: 10rem;
+    width: 20rem;
+}
