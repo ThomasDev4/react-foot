@@ -1,8 +1,14 @@
 ul {
-    list-style-type: none;
-    display: flex;
-    justify-content: space-around;
-    padding: 2rem;    
-    background-color: green;
-    color: beige;
+	list-style-type: none;
+	display: flex;
+	justify-content: space-around;
+	padding: 1rem;
+	background-color: green;
+	color: beige;
+	align-items: center;
+}
+
+.pmu {
+	height: 6rem;
+	width: 6rem;
 }
